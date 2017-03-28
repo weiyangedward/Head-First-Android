@@ -1,0 +1,7 @@
+#Mon Mar 20 11:05:15 PDT 2017
+base.0=/Users/WeiYang/AndroidStudioProjects/workout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d203bfa3b1d75335ab2a61be92e95e56d4748a26
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/WeiYang/AndroidStudioProjects/workout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e68495b61c6285417ba4c0636b04a3a9a449a998/classes.dex
+base.1=/Users/WeiYang/AndroidStudioProjects/workout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e68495b61c6285417ba4c0636b04a3a9a449a998
+file.0=/Users/WeiYang/AndroidStudioProjects/workout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d203bfa3b1d75335ab2a61be92e95e56d4748a26/classes.dex
