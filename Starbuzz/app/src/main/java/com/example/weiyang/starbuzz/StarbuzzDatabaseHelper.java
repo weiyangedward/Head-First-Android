@@ -33,7 +33,7 @@ public class StarbuzzDatabaseHelper extends SQLiteOpenHelper {
             db.execSQL("CREATE TABLE DRINK (_id INTEGER PRIMARY KEY AUTOINCREMENT, "
                     + "NAME TEXT, "
                     + "DESCRIPTION TEXT, "
-                    + "IMAGE_RESOURCE_ID INTEGER;");
+                    + "IMAGE_RESOURCE_ID INTEGER);");
 
             insertDrink(db, "Latte", "Espresso and steamed milk", R.drawable.latte);
             insertDrink(db, "Cappuccino", "Espresso, hot milk and steamed-milk foam", R.drawable.cappuccino);
